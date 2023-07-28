@@ -349,3 +349,56 @@ html,body{
 #circle h1:hover{
     transform: translateX(100%);
 }
+#page5 {
+    height: 100px;
+    padding:20px 10px;
+    width: 100%;
+    background-color:#C2BBB1;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border-top: 1px solid #35322f;
+    border-bottom: 1px solid #35322f;
+
+}
+#page5::-webkit-scrollbar{
+    display: none;
+}
+#page5 h1{
+    font-size: 60px;
+    font-family: domaine;
+    color: #222;
+    font-weight: 100;
+    display:inline-block;
+    /* background-color: red; */
+    margin-right: 18px;
+    animation-name: scroll;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    
+}
+#page5 h1 span{
+    font-family: canopee;
+    background-color: #222;
+    color:#C2BBB1;
+    padding: 0 20px;
+}
+#page6 {
+    height: 100px;
+    /* padding:30px 10px; */
+    width: 100%;
+    background-color:#C2BBB1;
+}
+@keyframes scroll {
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+
+        transform: translateX(calc(-100% - 18px));
+    }
+}
+#page5:hover h1{
+    animation-play-state: paused;
+}
