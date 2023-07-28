@@ -189,12 +189,12 @@ html,body{
     justify-content: space-between;
 }
 #page2-left{
-    height: 100%;
+    height: 90%;
     width: 45%;
     /* background-color: red; */
+    border-right: 1px solid #5e5853;
     padding-left: 30px;
     padding-right: 30px;
-    border-right: 1px solid #5e5853;
 }
 #page2-left h2{
     font-size: 80px;
@@ -202,7 +202,7 @@ html,body{
     font-family: canopee;
     line-height: 100px;
     font-weight: 100;
-    padding: 20px 9px;
+    padding: 0px 9px;
     color: #222;
     
 }
@@ -219,8 +219,8 @@ html,body{
 #page2-left p{
     font-family: domaine;
     font-size: 27px;
-    color: #1e1c1b;
-    padding: 10px;
+    color: #35322f;
+    padding: 20px;
     text-align: left;
     font-weight: 100;
     
@@ -231,6 +231,7 @@ html,body{
     background-color: #222;
     font-size: 60px;
     padding: 1px 10px;
+    
     font-weight: 500;
     float: left;
     align-content: end;
@@ -249,6 +250,30 @@ html,body{
     font-family: canopee;
     font-size: 70px;
     letter-spacing: 2px;
+    color: #222;
     font-weight: 100;
     
+}
+#page3{
+    position: relative;
+    height: 60vh;
+    background-color: #C2BBB1;
+}
+#page3 h1{
+    background-color: #1D1D1B;
+    font-size: 350px;
+    font-family: canopee;
+    color: #C6BEB4;
+    font-weight: 100;
+    width: fit-content;
+    letter-spacing: -10px;
+    margin-left: 3%;
+    padding: 0 20px;
+    line-height: 340px;
+}
+#page3 img{
+    height: 350px;
+    position: absolute;
+    top:-5%;
+    right:0;
 }
