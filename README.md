@@ -21,6 +21,7 @@ If you find Miranda intriguing, give it a ⭐️! Your star fuels our creativity
 <img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153523" src="https://github.com/AnujaBhise/miranda/assets/96904529/82b711ae-c24f-4626-b2e6-9cc119c9ec50">
 <img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153513" src="https://github.com/AnujaBhise/miranda/assets/96904529/540a0767-3dd7-422e-8510-de65bb849758">
 </div>
+
 ## 🌟 Features
 
 - 🎨 **Artistic Brilliance**: Explore an array of digital masterpieces.
