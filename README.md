@@ -1,4 +1,8 @@
-# 🌟 Miranda - Your Digital Wonderland 🎨
+# 🌈 Miranda - Your Digital Wonderland 🎨
+
+
+https://github.com/AnujaBhise/miranda/assets/96904529/a2c79708-165f-4ba8-9829-16d85f53d4bf
+
 
 Miranda is not just a website; it's a journey into a mesmerizing world of digital art, creativity, and immersive storytelling. Crafted with love using HTML, CSS, and JavaScript, Miranda invites you to explore, interact, and be captivated by the magic of digital expression.
 
@@ -10,10 +14,13 @@ If you find Miranda intriguing, give it a ⭐️! Your star fuels our creativity
 
 ## 📸 Screenshots
 
-![Captivating Section](link-to-screenshot-1)
-![Interactive Showcase](link-to-screenshot-2)
-![Artistic Expressions](link-to-screenshot-3)
-
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; justify-content: center; align-items: center; height: 100vh;">
+<img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153549" src="https://github.com/AnujaBhise/miranda/assets/96904529/7a988661-fa19-4336-b31c-2d5846a79548">
+<img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153543" src="https://github.com/AnujaBhise/miranda/assets/96904529/42227623-9d9f-41bc-8866-e71a3f4e2958">
+<img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153536" src="https://github.com/AnujaBhise/miranda/assets/96904529/22d4209b-63b0-4b05-87eb-353d37bd01d8">
+<img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153523" src="https://github.com/AnujaBhise/miranda/assets/96904529/82b711ae-c24f-4626-b2e6-9cc119c9ec50">
+<img style="width:300px; height:250px;" alt="Screenshot 2024-01-20 153513" src="https://github.com/AnujaBhise/miranda/assets/96904529/540a0767-3dd7-422e-8510-de65bb849758">
+</div>
 ## 🌟 Features
 
 - 🎨 **Artistic Brilliance**: Explore an array of digital masterpieces.
